@@ -40,7 +40,7 @@
 
 ## Results:
 <p><img src="/screenshot.png"></p>
-### **Accuracy of logistic regression classifier:**  0.8377192982456141
-### **Confusion matrix:**
+## **Accuracy of logistic regression classifier:**  0.8377192982456141
+## **Confusion matrix:**
  [[93 10]
  [27 98]]
