@@ -11,6 +11,8 @@
 <li>Finally, I built a machine learning model that can predict if an individual's application for a credit card will be accepted.</li>
 </ul>
 
+### Jump Straight to The [Video Tutorial](https://youtu.be/27Yiag9_EoM)
+
 ## Step-by-Step Process for predicting Credit Card Approval:
 * First, loading and viewing the dataset. I found that since this data is confidential, the contributor of the dataset has anonymized the feature names.
 
